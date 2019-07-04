@@ -1,3 +1,3 @@
 # MagicBoom
 
-Developed with Unreal Engine 4
+Developed by Unreal Engine 4
